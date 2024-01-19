@@ -1,0 +1,28 @@
+<html><meta http-equiv="Content-Type" content="text/html; charset=Windows-1252"><body><div class="page" title="Page 1">
+	<div class="layoutArea">
+		<div class="column">
+			<p>
+				<span style="font-size: 12.000000pt; font-family: 'Aptos'; font-weight: 700">Backend development &amp; Dynamic Frontend </span></p>
+			<p>
+				<span style="font-size: 12.000000pt; font-family: 'Aptos'">1)Frontend convert In laravel <strong><u>(not the priority but if we get it done cost effectively, its good to go)</u></strong><br />
+				<br />
+				2)Admin Panel Frontend pages<br />
+				<br />
+				a)Dashboard page.</span><br />
+				<span style="font-family: Aptos; font-size: 12pt;">b)Listing add,view,update,delete pages.</span></p>
+			<p>
+				<span style="font-size: 12.000000pt; font-family: 'Aptos'">c)Blog/Article add,view,update,delete pages.<br />
+				<br />
+				4) Make Blog/Artical functionality dynamic on backend<br />
+				5) dynamic Blog/Artical on Front end<br />
+				6) Email functionality (working contact us form)<br />
+				7) working all search bar ( connecting bars to listings in all pages )<br />
+				8) working Filters ( search filters by price or by property type)<br />
+				9) Make listing functionality dynamic on backend<br />
+				10) dynamic listings in Front end </span></p>
+		</div>
+	</div>
+</div>
+<p>
+	&nbsp;</p>
+</body></html>
